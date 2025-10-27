@@ -1,4 +1,4 @@
-# IA de Genracion de imagenes
+# IA de Generacion de imagenes
 
 Proyecto de IA en Python para generación de imágenes a partir de texto e imágenes de referencia.
 
