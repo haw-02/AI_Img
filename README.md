@@ -1,4 +1,4 @@
-# IA-try
+# IA de Genracion de imagenes
 
 Proyecto de IA en Python para generación de imágenes a partir de texto e imágenes de referencia.
 
