@@ -10,7 +10,7 @@ def main():
     ref_img = Image.open(img_path).convert("RGB")
 
     # Prompt
-    prompt = input("✨ Escribe tu prompt (ej: astronauta anime en estilo retro): ")
+    prompt = input(" Escribe tu prompt (ej: astronauta anime en estilo retro): ")
     if not prompt.strip():
         prompt = "anime illustration, cel-shading, vibrant colors, clean lineart"
 
